@@ -1,0 +1,6 @@
+{
+  "name": "Scrcpy Remote",
+  "description": "基于WebSocket与AES-256端到端加密的Android远程桌面系统，支持低延迟视频流传输、多点触控与手势模拟、配对码扫码互联及自适应码率调整。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

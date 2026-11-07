@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Scrcpy Remote</string>
+    <string name="accessibility_service_desc">用于Scrcpy Remote远程桌面在被控端模拟多点触控与系统手势操作。</string>
+    <string name="role_controller">控制端</string>
+    <string name="role_host">被控端</string>
+    <string name="tab_logs">安全审计</string>
+    <string name="tab_settings">参数设置</string>
+</resources>
